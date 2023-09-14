@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Hello world! </h1>
+<h1 align="center">Hello world! <img src="https://github.com/CamiciaNera/camicianera/blob/main/assets/hi.gif" width="35px" /> </h1>
 <p align="center">
   <img src="https://img.shields.io/badge/CamiciaNera%232148-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white%22" /> 
   <img src="https://img.shields.io/badge/@realcamicia-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
